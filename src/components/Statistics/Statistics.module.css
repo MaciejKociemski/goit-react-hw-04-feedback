@@ -1,0 +1,33 @@
+.numbers {
+  font-weight: 700;
+}
+
+p {
+  text-transform: capitalize;
+  margin: 0;
+  width: 150px;
+  padding: 16px;
+  display: block;
+}
+
+.good {
+  background-color: var(--good-color);
+}
+
+.neutral {
+  background-color: var(--neutral-color);
+}
+
+.bad {
+  background-color: var(--bad-color);
+}
+
+.total {
+  font-weight: 700;
+}
+
+.positiv {
+  width: 200px;
+  border: 1px dotted gray;
+  font-weight: 700;
+}
